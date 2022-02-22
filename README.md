@@ -8,12 +8,9 @@ Un blog increíble para el curso
 *EL verdadero amor por las buenas practicas
 *Trucos muy locos 
 *Las multiples personalidades de fredy 
-<<<<<<< HEAD
-=======
 *Creado por el team ideewe
 *Incluye ejemplos en windows linux y  mac
 *Disponible para todas las edades
->>>>>>> 473b6ee (Creditos al team platzi)
 
 
 Y como amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. [mejor ve a ver el curso](https://ideewe.com/)
