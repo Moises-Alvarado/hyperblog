@@ -10,6 +10,7 @@ Un blog increíble para el curso
 *Las multiples personalidades de fredy 
 *Creado por ideewe
 *Incluye ejemplos en windows linux y  mac
+*Disponible para todas las edades
 
 
 Y como amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. [mejor ve a ver el curso](https://ideewe.com/)
