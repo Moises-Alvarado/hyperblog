@@ -8,7 +8,7 @@ Un blog increíble para el curso
 *EL verdadero amor por las buenas practicas
 *Trucos muy locos 
 *Las multiples personalidades de fredy 
-*Creado por ideewe
+*Creado por el team ideewe
 *Incluye ejemplos en windows linux y  mac
 *Disponible para todas las edades
 
