@@ -12,3 +12,5 @@ En camara se ve mejor
 hoy es el CEO de ideewe
 
 Probando comandos de git.
+
+ok
